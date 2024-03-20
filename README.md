@@ -1,2 +1,2 @@
 # BeetleboxImages
-For the wiki is the images are needed
+For the wiki if the images are needed
